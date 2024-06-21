@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pravinkumar S</h1>
 
-<p>🔭 I’m currently working on [Namma Yatri](https://github.com/nammayatri/nammayatri)</p>
-<p>👯 I’m looking to collaborate on <b>Android, iOS & Web Development </b></p>
-<p>📫 How to reach me **spravinkumar9952@gmail.com**</p>
+<p>👨‍💻 I’m currently working on [Namma Yatri](https://github.com/nammayatri/nammayatri)</p>
+<p>👥 I’m looking to collaborate on <b>Android, iOS & Web Development </b></p>
+<p>📫 Reach me on <a href = "mailto:spravinkumar9952@gmail.com">spravinkumar9952@gmail.com</a></p>
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pravinkumar-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/spravinkumar9952" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:spravinkumar9952@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pravinkumar-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pravinkumar-s/" height="30" width="40" /></a><a href="https://www.hackerrank.com/spravinkumar9952" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="spravinkumar9952" height="30" width="40" /></a><a href="https://www.youtube.com/c/Pravinkumar_S" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Pravinkumar_S" height="30" width="40" /></a><a href="https://www.leetcode.com/spravinkumar9952" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="spravinkumar9952" height="30" width="40" /></a><a href="https://codeforces.com/profile/spravinkumar9952" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="spravinkumar9952" height="30" width="40" /></a></p>
